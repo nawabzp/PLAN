@@ -34,12 +34,11 @@ kanban-plugin: board
 - [ ] AWS Cloud Practitioner
 
 
-## Completed
-
-**Complete**
-
-
 ## Skipped
+
+
+
+## Completed
 
 
 
