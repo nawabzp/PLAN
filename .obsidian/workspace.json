@@ -4,39 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "dfbea93f72f4e6c7",
+        "id": "ab0decef4762837a",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d2a4436f0357c5",
+            "id": "9f8d7a867f018e18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Progress/Plan Progress.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "0618f9be733ddadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principal Architect Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principal Architect Plan"
+              "icon": "lucide-trello",
+              "title": "Plan Progress"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +188,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0618f9be733ddadd",
+  "active": "9f8d7a867f018e18",
   "lastOpenFiles": [
     "Principal Architect Plan.md",
-    "Welcome.md"
+    "Progress/Plan Progress.md",
+    "Untitled.base",
+    "Untitled",
+    "Progress",
+    "Welcome.md",
+    "Principal Architect Plan.pdf",
+    "Module 1 of AWS Cloud Knowledge.md",
+    "Untitled Kanban.md"
   ]
 }
